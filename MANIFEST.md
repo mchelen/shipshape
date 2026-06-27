@@ -1,8 +1,8 @@
-# Purpose
+# Why
 
 The intention of this repo is to provide a fully templated software factory that can be cloned and reused for any software development. 
 
-# Approach
+# What
 
 All aspects of software development lifecycle should be accounted for including: 
 - Understanding user needs
@@ -13,3 +13,9 @@ All aspects of software development lifecycle should be accounted for including:
 - Creating releases and deployments
 - Monitoring application health and status
 - Understanding usage and collecting feedback
+
+# How
+For each aspect of software development, an agent is created with the task of performing that function. 
+The agent is provided with default best practices, and actively works across planning artifacts, repository codebase, and user commands to carry out the approach.
+
+# Examples
