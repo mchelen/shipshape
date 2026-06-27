@@ -1,3 +1,6 @@
+# Problem Statement 
+How might we automate all standard aspects of the software development lifecycle?
+
 # Why
 
 The intention of this repo is to provide a fully templated software factory that can be cloned and reused for any software development. 
